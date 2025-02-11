@@ -41,6 +41,10 @@ Open the `Train_plant_disease.ipynb` file in Jupyter Notebook and run the cells 
 ```bash
 streamlit run app.py
 ```
+![image](https://github.com/user-attachments/assets/e054fbbe-de4d-4e59-8c01-5c3628023078)
+
+![image](https://github.com/user-attachments/assets/273ef78e-2f1b-42b0-9145-8c74f4e987e2)
+
 
 ## 📊 Model Performance
 The CNN model is trained with a target accuracy of **90%+**. Evaluation metrics include accuracy, precision, recall, and loss.
